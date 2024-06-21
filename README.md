@@ -26,7 +26,7 @@ The system goes through several steps, including data preprocessing, feature eng
 
 8. **Streamlit App:** A web application is developed using Streamlit to create an interactive interface for users to input loan application details. The input fields include features such as gender, marital status, income, loan amount, etc. After entering the details and clicking the "Predict Loan Status" button, the trained SVM model is loaded, and the loan status is predicted based on the provided information.
 
-## ```Click to check the loan status``` [click here👉](https://dhrupad17-loan-status-prediction-app-7n5ll3.streamlit.app/)
+## ```Click to check the loan status``` [click here👉](https://loan-status-prediction-2bh3bjyzm2u.streamlit.app/)
 
 ## A brief about Support Vector Machine Model
 
