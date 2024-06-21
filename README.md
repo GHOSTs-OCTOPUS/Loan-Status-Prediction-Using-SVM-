@@ -10,7 +10,7 @@ The system goes through several steps, including data preprocessing, feature eng
 
 ## Steps involved in the Project
 
-1. **Dataset**: The project utilizes a dataset containing information about loan applications. The dataset includes features such as gender, marital status, number of dependents, education, employment status, income details, loan amount, loan amount term, credit history, property area, and the loan status (whether approved or not). ```Click on the dataset link```[click here](https://github.com/dhrupad17/Loan-Status-Prediction/tree/main)
+1. **Dataset**: The project utilizes a dataset containing information about loan applications. The dataset includes features such as gender, marital status, number of dependents, education, employment status, income details, loan amount, loan amount term, credit history, property area, and the loan status (whether approved or not). ```Click on the dataset link```[click here](https://ht3u7gnxeya76nzqwh9h7u.streamlit.app/)
 
 2. **Data Preprocessing:** The dataset undergoes several preprocessing steps to handle missing values, convert categorical variables into numerical representations, and ensure consistency with the training data. Missing values are filled using appropriate methods, and categorical variables are encoded using label encoding or mapping.
 
