@@ -26,8 +26,6 @@ The system goes through several steps, including data preprocessing, feature eng
 
 8. **Streamlit App:** A web application is developed using Streamlit to create an interactive interface for users to input loan application details. The input fields include features such as gender, marital status, income, loan amount, etc. After entering the details and clicking the "Predict Loan Status" button, the trained SVM model is loaded, and the loan status is predicted based on the provided information.
 
-## ```Click to check the loan status```[click here👉](https://loan-status-prediction-using-svm-ht3u7gnxeya76nzqwh9h7u.streamlit.app/)
-
 ## A brief about Support Vector Machine Model
 
 Support Vector Machine,(SVM), falls under the “supervised machine learning algorithms” category. It can be used for classification, as well as for regression. In this model, we plot each data item as a unique point in an n-dimension,(where n is actually, the number of features that we have), with the value of each of the features being the value of that particular coordinate. Then, we perform the process of classification by finding the hyper-plane that differentiates the two classes.
